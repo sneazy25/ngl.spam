@@ -1,11 +1,8 @@
-
 import pyfiglet
 import requests
 import os
 from colorama import Fore, init
 from random import randint
-
-    
 
 init(autoreset=False)
 
