@@ -15,7 +15,7 @@ git clone https://github.com/sneazy25/ngl.spam
 cd ngl.spam
 ```
 ```sh
-python3 -m pip install -r require.txt
+pip3 install -r require.txt
 ```
 ```sh
 python3 spammer.py
