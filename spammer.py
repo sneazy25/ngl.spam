@@ -14,9 +14,6 @@ green = Fore.LIGHTGREEN_EX
 yellow = Fore.LIGHTYELLOW_EX
 white = Fore.WHITE
 blue = Fore.BLUE
-ATTEMP_R1 = 0
-ATTEMP_R2 = 0
-ATTEMP_R3 = 0
 
 r = requests.Session()
 
